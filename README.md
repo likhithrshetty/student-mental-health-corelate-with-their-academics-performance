@@ -1,0 +1,2 @@
+# student-mental-health-corelate-with-their-academics-performance
+Education system plays a vital role in any profession. Student health is an important  research topic today because it is the cornerstone of our society. Researchers have used various  technological breakthroughs to address the health problems of schoolchildren and college  students, and machine learning is now being used frequently. 
